@@ -34,7 +34,9 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 
 <p align="left"> 📚 Frameworks, Platforms and Libraries </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="left"> 💾 Databases </p>
