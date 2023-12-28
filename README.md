@@ -4,9 +4,9 @@
 My name is **Yujun** **Seo**
 - I am an undergraduate student at Soongsil University, Korea.
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="left"> 🪄 Blog 🪄</h3>
 
-<div align="left" style="text-align:left">
+<div align="left" style="text-align:center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojoon)](https://velog.io/@yoojoon)
   
