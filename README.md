@@ -6,7 +6,7 @@ My name is **Yujun** **Seo**
 
 <h3 align="center">🪄 Blog 🪄</h3>
 
-<div align="left" style="text-align:center">
+<div align="left" style="text-align:left">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojoon)](https://velog.io/@yoojoon)
   
