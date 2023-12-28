@@ -17,8 +17,9 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
 </p>
 <br>
+  
 <p align="left>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e5d4c91-bf2c-4c1f-9447-c3189f10b39d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://github.com/SEO-YJ/SEO-YJ/assets/76039485/d104299c-bc1c-4061-a894-1e8edbd243e0"  width="500" height="500">
 </p>
 <br>
 
