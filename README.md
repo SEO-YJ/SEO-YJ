@@ -8,6 +8,10 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 </p>
 <br>
 
+![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEO-YJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h3 align="left"> :stars: SNS :stars: </h3>
 <p align="left">
   <a href="https://velog.io/@yoojoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoojoon"/></a>&nbsp
@@ -41,9 +45,7 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEO-YJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Certificate
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
