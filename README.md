@@ -9,10 +9,14 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 </p>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEO-YJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 <!-- Open API: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+<h3 align="left">💯 Certificate 💯</h3>
+<p align="left>
+- SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
+  <img src="https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url"/></a>&nbsp
+</p>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
@@ -76,33 +80,8 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojoon)](https://velog.io/@yoojoon)
   
 </div>
-  
-<br>
-  
+
+<!-- Open API: https://hits.seeyoufarm.com/ -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEO-YJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-
-
-
-
-
-- Certificate
-- SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
-  ![SAP]([https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url](https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url)).
-
-
-
-
-
-
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```txt
-Swift             21 hrs 4 mins   🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.21 %
-```
-
-<!--END_SECTION:waka-->
