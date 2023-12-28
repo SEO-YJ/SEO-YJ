@@ -3,7 +3,7 @@
 
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
 <p align="left">
-My name is Youjun Seo<br>
+My name is <b>Youjun Seo</b><br>
 I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 </p>
 <br>
