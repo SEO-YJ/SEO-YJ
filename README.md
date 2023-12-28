@@ -21,7 +21,7 @@ My name is **Yujun** **Seo**
 
 - Certificate
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
-  ![SAP](https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url).
+  ![SAP]([https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url](https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url)).
 
 
 
