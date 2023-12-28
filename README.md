@@ -2,7 +2,7 @@
 <!-- 사용 API: https://github.com/kyechan99/capsule-render#wave -->
 
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
-My name is **Yujun** **Seo**
+My name is <br>Youjun Seo</br>
 I am an undergraduate student at Soongsil University, Korea.
 
 
