@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=40&desc=YJ's%20GitHub%20Profile&descAlignY=53&descAlign=60)
 <!-- 사용 API: https://github.com/kyechan99/capsule-render#wave -->
 
+<h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
+<div align="left" style="text-align:center">
 My name is **Yujun** **Seo**
-- I am an undergraduate student at Soongsil University, Korea.
+I am an undergraduate student at Soongsil University, Korea.
+</div>
 
 <h3 align="left"> 🪄 Blog 🪄</h3>
 
