@@ -2,8 +2,10 @@
 <!-- 사용 API: https://github.com/kyechan99/capsule-render#wave -->
 
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
+<p align="left">
 My name is Youjun Seo<br>
 I am an undergraduate student at Soongsil University, Korea.
+</p>
 <br>
 
 <h3 align="left"> :stars: SNS :stars: </h3>
