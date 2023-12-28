@@ -14,11 +14,8 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 <br>
 
 <h3 align="left">💯 Certificate 💯</h3>
-
 <p align="left> SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 </p>
-<p align="left>
-  <img src="https://github.com/SEO-YJ/SEO-YJ/issues/1#issue-2058727189"/>
-</p>
+
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
