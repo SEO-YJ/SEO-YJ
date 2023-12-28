@@ -12,6 +12,38 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+
+<p align="left"> Languages </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Abap-0FAAFF?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+</p>
+
+<br>
+
 <h3 align="left"> :stars: SNS :stars: </h3>
 <p align="left">
   <a href="https://velog.io/@yoojoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoojoon"/></a>&nbsp
