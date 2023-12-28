@@ -2,20 +2,9 @@
 <!-- 사용 API: https://github.com/kyechan99/capsule-render#wave -->
 
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
-My name is <br>Youjun Seo</br>
+My name is Youjun Seo<br>
 I am an undergraduate student at Soongsil University, Korea.
-
-
-<h3 align="left"> 🪄 Blog 🪄</h3>
-
-<div align="left" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojoon)](https://velog.io/@yoojoon)
-  
-</div>
-  
 <br>
-
 
 <h3 align="left"> :stars: SNS :stars: </h3>
 <p align="left">
@@ -23,6 +12,16 @@ I am an undergraduate student at Soongsil University, Korea.
   <a href="https://www.instagram.com/youjun_seo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youjun_seo0/"/></a>&nbsp
   <a href="mailto:tjdbwnssla19@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdbwnssla19@gmail.com"/></a>
 </p>
+<br>
+
+<h3 align="left">  :memo: Blog :memo: </h3>
+
+<div align="left" style="text-align:center">
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojoon)](https://velog.io/@yoojoon)
+  
+</div>
+  
 <br>
 
     
