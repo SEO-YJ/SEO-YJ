@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=40&desc=YJ's%20GitHub%20Profile&descAlignY=50&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=45&desc=YJ's%20GitHub%20Profile&descAlignY=50&descAlign=60)
 
 My name is **Yujun** **Seo**
 - I am an undergraduate student at Soongsil University, Korea.
