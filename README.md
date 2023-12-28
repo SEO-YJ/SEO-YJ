@@ -1,49 +1,22 @@
-<!--
+My name is **Seo** **You** **Jun**
+- I am an undergraduate student at Soongsil University, Korea.
 
-Thank you if you like this profile README!
-
-BUT, please DO NOT copy this and create your profile based on it.
-
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
-
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— ouuan (https://github.com/ouuan)
-
--->
-
-My name is S**eo** Y**ou**J**un**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at Soongsil University, Korea.
-
-
-
--   :pencil2: IOS / Android
+-   :pencil2: iOS / Android / Swift / Java / Python / C / C++ / Linux
 -   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  !Xcode	![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing some network security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/SEO-YJ/SEO-YJ/discussions/new)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/SEO-YJ.gpg)
+![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
 
 ---
 
