@@ -19,6 +19,10 @@ My name is **Yujun** **Seo**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEO-YJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+- Certificate
+- SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
+<img width="80%" src="[https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://www.credly.com/badges/8e5d4c91-bf2c-4c1f-9447-c3189f10b39d/public_url)"/>
+
 
 
 
