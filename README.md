@@ -17,11 +17,11 @@ I am an undergraduate student at Soongsil University, Korea.
 <br>
 
 
-<h3 align="center"> :stars: SNS :stars: </h3>
-<p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+<h3 align="left"> :stars: SNS :stars: </h3>
+<p align="left">
+  <a href="https://velog.io/@yoojoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoojoon"/></a>&nbsp
+  <a href="https://www.instagram.com/youjun_seo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youjun_seo0/"/></a>&nbsp
+  <a href="mailto:tjdbwns19@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdbwns19@naver.com"/></a>
 </p>
 <br>
 
