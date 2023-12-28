@@ -32,6 +32,12 @@ My name is S**eo** Y**ou**J**un**<!-- the bold part is the origin of my ID -->. 
 
 
 -   :pencil2: IOS / Android
+-   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  !Xcode	![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Doing some network security research with @chenjj
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/SEO-YJ/SEO-YJ/discussions/new)!
@@ -40,11 +46,9 @@ My name is S**eo** Y**ou**J**un**<!-- the bold part is the origin of my ID -->. 
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/SEO-YJ.gpg)
 
 ---
-#### All inbuilt themes
 
-GitHub Readme Stats comes with several built-in themes (e.g. `dark`).
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+
 
 
 
