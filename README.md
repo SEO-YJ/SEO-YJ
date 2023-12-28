@@ -4,7 +4,7 @@
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
 <p align="left">
 My name is Youjun Seo<br>
-I am an undergraduate student at Soongsil University, Korea.
+I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 </p>
 <br>
 
