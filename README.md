@@ -17,7 +17,7 @@ My name is **Seo** **You** **Jun**
 - 
 
 
-![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 
 
 
