@@ -40,6 +40,11 @@ My name is S**eo** Y**ou**J**un**<!-- the bold part is the origin of my ID -->. 
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/SEO-YJ.gpg)
 
 ---
+#### All inbuilt themes
+
+GitHub Readme Stats comes with several built-in themes (e.g. `dark`).
+
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 
 
