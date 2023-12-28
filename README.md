@@ -21,9 +21,6 @@ My name is **Yujun** **Seo**
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e5d4c91-bf2c-4c1f-9447-c3189f10b39d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
 
 
 
