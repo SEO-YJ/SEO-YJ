@@ -11,10 +11,12 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 <!-- Open API: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<br>
 
 <h3 align="left">💯 Certificate 💯</h3>
-<p align="left> SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 </p>
+<p align="left>
+SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
+</p>
+<br>
 
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
