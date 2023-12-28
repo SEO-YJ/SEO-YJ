@@ -21,7 +21,7 @@ SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50
 <br>
   
 <p align="left">
-  <img src="https://github.com/SEO-YJ/SEO-YJ/assets/76039485/d104299c-bc1c-4061-a894-1e8edbd243e0"/>
+  <img src="https://github.com/SEO-YJ/SEO-YJ/assets/76039485/d104299c-bc1c-4061-a894-1e8edbd243e0"/></a>&nbsp
 </p>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
