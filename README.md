@@ -21,7 +21,7 @@ I am an undergraduate student at Soongsil University, Korea.
 <p align="left">
   <a href="https://velog.io/@yoojoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoojoon"/></a>&nbsp
   <a href="https://www.instagram.com/youjun_seo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youjun_seo0/"/></a>&nbsp
-  <a href="mailto:tjdbwns19@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdbwns19@naver.com"/></a>
+  <a href="mailto:tjdbwnssla19@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdbwnssla19@gmail.com"/></a>
 </p>
 <br>
 
