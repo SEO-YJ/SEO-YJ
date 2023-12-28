@@ -1,4 +1,5 @@
 <!-- Reference readme: https://github.com/wookyoungkim/wookyoungkim/tree/main -->
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=40&desc=YJ's%20GitHub%20Profile&descAlignY=53&descAlign=60)
 <!-- Open API: https://github.com/kyechan99/capsule-render#wave -->
 
@@ -12,12 +13,14 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 <!-- Open API: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<h3 align="left">💯 Certificate 💯</h3>
+
+<h3 align="left"> 💯 Certificate 💯 </h3>
 <p align="left>
 SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
 </p>
-<br>
-
+<p align="left>
+  <img src="https://github.com/SEO-YJ/SEO-YJ/issues/1#issue-2058727189"/>
+</p>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
