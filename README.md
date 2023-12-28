@@ -3,6 +3,10 @@
 
 My name is **Yujun** **Seo**
 - I am an undergraduate student at Soongsil University, Korea.
+
+SNS
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=Dev%20Blog&link=https%3A%2F%2Fvelog.io%2F%40yoojoon%2Fposts)
+
     
 -   :pencil2: iOS / Android / Swift / Java / Python / C / C++ / Linux
   
