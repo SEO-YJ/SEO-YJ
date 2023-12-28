@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 My name is **Yujun** **Seo**
 - I am an undergraduate student at Soongsil University, Korea.
     
