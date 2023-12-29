@@ -7,9 +7,10 @@
 <p align="left">
 My name is <b>Youjun Seo</b><br>
 I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.<br>
-서두르지 않고<br>
-유연하게 상황을 대처하며<br>
-준수한 외모를 가진 서유준입니다.
+
+_서두르지 않고_<br>
+_유연하게 상황을 대처하며_<br>
+_준수한 외모를 가진 서유준입니다._
 </p>
 <br>
 
