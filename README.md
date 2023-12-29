@@ -56,6 +56,9 @@ SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50
 <p align="left>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
 
 <p align="left"> 💾 Databases </p>
