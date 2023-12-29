@@ -6,12 +6,13 @@
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
 <p align="left">
 My name is <b>Youjun Seo</b><br>
-I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.
-서두르지 않고
-유연하게 상황을 대처하며
+I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.<br>
+서두르지 않고<br>
+유연하게 상황을 대처하며<br>
 준수한 외모를 가진 서유준입니다.
 </p>
 <br>
+
 
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
 <!-- Open API: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
