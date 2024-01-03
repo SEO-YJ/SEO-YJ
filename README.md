@@ -11,6 +11,10 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.<
 _서두르지 않고_<br>
 _유연하게 상황을 대처하며_<br>
 _준수한 외모를 가진 서유준입니다._
+
+- Final Vocabulary
+  - 인내
+  
 </p>
 <br>
 
