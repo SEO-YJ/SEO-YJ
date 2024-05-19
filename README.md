@@ -25,18 +25,6 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 :---|:---|
 23.12.20|SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
 
-<h3 align="left"> 💯 Certificate 💯 </h3>
-<p align="left">
-SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
-</p>
-<br>
-  
-<p align="left">
-  <img src="https://github.com/SEO-YJ/SEO-YJ/assets/76039485/d104299c-bc1c-4061-a894-1e8edbd243e0"/></a>&nbsp
-</p>
-
-![poster](./image.png)
-
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
 <p align="left"> 📋 Languages </p>
