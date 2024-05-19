@@ -11,12 +11,16 @@ I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.<
 _서두르지 않고_<br>
 _유연하게 상황을 대처하며_<br>
 _준수한 코딩 실력을 가지고 싶은 서유준입니다._
-
-- Final Vocabulary
-  - 인내
   
 </p>
 <br>
+
+수상
+기간|프로젝트명|프로젝트 소개|역할|수상명(주최기관)|
+---|---|---|---|---|
+23.09.01 ~
+23.12.12|Co-op SAP 트랙|캡스톤 디자인|개인 프로젝트|23-2 Co-op 장학생 선발(SAP, 숭실대학교)
+
 
 
 ![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
