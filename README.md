@@ -1,8 +1,3 @@
-<!-- Reference readme: https://github.com/wookyoungkim/wookyoungkim/tree/main -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=40&desc=YJ's%20GitHub%20Profile&descAlignY=53&descAlign=60)
-<!-- Open API: https://github.com/kyechan99/capsule-render#wave -->
-
 <h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
 <p align="left">
 My name is <b>Youjun Seo</b><br>
@@ -18,23 +13,17 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 🏆 수상
 기간|프로젝트명|프로젝트 소개|역할|수상명(주최기관)|
 :---|:---|:---|:---|:---|
-23.09.01 ~ 23.12.22| Co-op SAP 트랙 <br/> (캡스톤 디자인)| MM 모듈 프로젝트 | 개인 프로젝트 기획 및 구현 | 23-2 Co-op 장학생 선발 <br/> (SAP, 숭실대학교)
+23.09.01 ~ 23.12.22| Co-op SAP 트랙 <br/> (캡스톤 디자인)| MM 모듈 및 개인 프로젝트 | 개인 프로젝트 기획 및 구현 | 23-2 Co-op 장학생 선발 <br/> (SAP, 숭실대학교)
 
 🏃 경험
-기간|활동명|프로젝트명 | 활동 |기관|
-:---|:---|:---|:---|:---|
-23.09.01 ~ 23.12.22| Co-op SAP 트랙 | SAP ABAP 개발, MM 모듈| SAP, 숭실대학교
+기간|활동명|기관|
+:---|:---|:---
+23.09.01 ~ 23.12.22| Co-op SAP 트랙 <br/> (캡스톤 디자인) | SAP, 숭실대학교
 
 🪪 자격증
 취득일자|자격증명|
 :---|:---|
-23.12.20|SAP Abap Certification
-
-
-
-![Youjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-YJ&theme=dark&show_icons=true)
-<!-- Open API: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
+23.12.20|SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
 
 <h3 align="left"> 💯 Certificate 💯 </h3>
 <p align="left">
