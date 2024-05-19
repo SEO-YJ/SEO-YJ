@@ -14,21 +14,29 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 
 기간|프로젝트명|프로젝트 소개|역할|수상명(주최기관)|
 :---|:---|:---|:---|:---|
-23.09.01 ~ 23.12.22| Co-op SAP 트랙 <br/> (캡스톤 디자인)| MM 모듈 및 개인 프로젝트 | 개인 프로젝트 기획 및 구현 | 23-2 Co-op 장학생 선발 <br/> (SAP Korea, 숭실대학교)
+23.09.01 ~ 23.12.21| Co-op SAP 트랙 <br/> (캡스톤 디자인)| MM 모듈 및 개인 프로젝트 | 개인 프로젝트 기획 및 구현 | 2023-2 Co-op 프로젝트 장학생 선발 <br/> (SAP Korea, 숭실대학교)
 
 <h3 align="left"> 🏃 Experience </h3>
 
 기간|활동명|기관|
 :---|:---|:---
-23.12.27 ~ 24.06.27| 프로디지털 아카데미 | 신한투자증권
-23.09.01 ~ 23.12.22| Co-op SAP 트랙 <br/> (캡스톤 디자인) | SAP Korea, 숭실대학교
+23.12.27 ~ 24.06.27| 프로디지털아카데미 | 신한투자증권
+23.09.01 ~ 23.12.21| Co-op SAP 트랙 <br/> (캡스톤 디자인) | SAP Korea, 숭실대학교
 
 
 <h3 align="left"> 🪪 Certification </h3>
 
-취득일자|자격증명|
-:---|:---|
-23.12.20|SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
+취득일자|기관|자격증명|
+:---|:---|:---|
+23.12.16| SAP Korea | SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
+23.10.28| TOPCIT | Level 3
+21.06.08| Microsoft | Microsoft Office Excel® 2016 Expert
+
+<h3 align="left"> 🌍 English </h3>
+
+취득일자|시험명|성적|
+:---|:---|:---|
+24.03.17| TOEIC Speaking Test| Intermediate Mid 3
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
