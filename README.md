@@ -1,7 +1,5 @@
-<h3 align="left"> 🙇‍♂️ Introduce 🙇‍♂️ </h3>
+<h3 align="left"> 🙇‍♂️ Introduce </h3>
 <p align="left">
-My name is <b>Youjun Seo</b><br>
-I am an undergraduate student at Soongsil University, Seoul, Republic of Korea.<br>
 
 _서두르지 않고_<br>
 _유연하게 상황을 대처하며_<br>
