@@ -35,7 +35,7 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 :---|:---|:---|
 24.03.17| TOEIC Speaking Test| Intermediate Mid 3
 
-<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 <p align="left"> 📋 Languages </p>
 <p align="left">
@@ -85,7 +85,7 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 <!-- Use Icon: https://simpleicons.org/ -->
 
 
-<h3 align="left"> :stars: SNS :stars: </h3>
+<h3 align="left"> :stars: SNS </h3>
 <p align="left">
   <a href="https://velog.io/@yoojoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoojoon"/></a>&nbsp
   <a href="https://www.instagram.com/youjun_seo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youjun_seo0/"/></a>&nbsp
@@ -93,7 +93,7 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 </p>
 <br>
 
-<h3 align="left">  :memo: Blog :memo: </h3>
+<h3 align="left">  :memo: Blog </h3>
 
 <div align="left" style="text-align:center">
 
