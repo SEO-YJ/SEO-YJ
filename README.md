@@ -32,6 +32,7 @@ _준수한 코딩 실력을 가지고 싶은 서유준입니다._
 
 취득일자|기관|자격증명|
 :---|:---|:---|
+24.09.20| 한국데이터산업진흥원 | SQLD
 23.12.16| SAP Korea | SAP Certified Development Associate: ABAP with SAP NetWeaver 7.50 
 23.10.28| TOPCIT | Level 3
 21.06.08| Microsoft | Microsoft Office Excel® 2016 Expert
