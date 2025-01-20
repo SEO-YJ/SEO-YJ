@@ -1,8 +1,8 @@
 <h3 align="left">🙇‍♂️ Introduce </h3>
 <p align="left">
   
-_ERP와 백엔드 기술에 관심이 있는_<br>
-_개발자 서유준입니다_<br>
+_ERP와 백엔드에 관심이 있는_<br>
+_개발자 서유준입니다._<br>
   
 </p>
 
